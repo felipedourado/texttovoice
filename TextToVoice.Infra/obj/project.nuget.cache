@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "17LxUmmb6k9KzXooO0EvJmExUGs3jBBDQeZlFgznB1TIJ6DzudDL8B3OA452DKqgu3WWuCc8kImqaziRNDc7lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\projetos .net\\TextToVoice\\TextToVoice.Infra\\TextToVoice.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\awssdk.core\\3.7.107.4\\awssdk.core.3.7.107.4.nupkg.sha512",
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\awssdk.polly\\3.7.107.6\\awssdk.polly.3.7.107.6.nupkg.sha512",
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
