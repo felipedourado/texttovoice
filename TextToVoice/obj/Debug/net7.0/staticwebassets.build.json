@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kh/pWsHsUES6dpfCcype4/JN4/3+V1l7xK9MykWlzX0=",
+  "Source": "TextToVoice",
+  "BasePath": "_content/TextToVoice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\TextToVoice.Infra.csproj.AssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\TextToVoice.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\TextToVoice.Infra.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\TextToVoice.Infra.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\TextToVoice.Infra.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\bin\Debug\net7.0\TextToVoice.Infra.deps.json
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\bin\Debug\net7.0\TextToVoice.Infra.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\bin\Debug\net7.0\TextToVoice.Infra.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\bin\Debug\net7.0\TextToVoice.Domain.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\bin\Debug\net7.0\TextToVoice.Domain.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\TextToVoice.Infra.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\TextToVoice.Infra.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\refint\TextToVoice.Infra.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\TextToVoice.Infra.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Infra\obj\Debug\net7.0\ref\TextToVoice.Infra.dll

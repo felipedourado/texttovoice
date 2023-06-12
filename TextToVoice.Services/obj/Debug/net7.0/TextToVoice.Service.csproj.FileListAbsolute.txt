@@ -1,0 +1,15 @@
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\bin\Debug\net7.0\TextToVoice.Service.deps.json
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\bin\Debug\net7.0\TextToVoice.Service.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\bin\Debug\net7.0\TextToVoice.Service.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\bin\Debug\net7.0\TextToVoice.Domain.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\bin\Debug\net7.0\TextToVoice.Domain.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\TextToVoice.Service.csproj.AssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\TextToVoice.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\TextToVoice.Service.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\TextToVoice.Service.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\TextToVoice.Service.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\TextToVoice.Service.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\TextToVoice.Service.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\refint\TextToVoice.Service.dll
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\TextToVoice.Service.pdb
+C:\Users\DESKTOP\Desktop\Projetos\projetos .net\TextToVoice\TextToVoice.Services\obj\Debug\net7.0\ref\TextToVoice.Service.dll
